@@ -99,11 +99,6 @@ languages:
   - name: French
     percent: 50
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-
 ---
 
 I am currently seeking for full time job in quantitative area for 2025.
