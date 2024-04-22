@@ -27,7 +27,7 @@ profiles:
     url: 'mailto:cx248@cornell.edu'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/chengruixu2000
 
 
 education:
