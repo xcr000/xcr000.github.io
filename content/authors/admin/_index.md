@@ -91,6 +91,9 @@ skills:
         percent: 80
         icon: camera
 
+Awards:
+  - name: Dean's List
+
 languages:
   - name: Chinese
     percent: 100
@@ -98,6 +101,9 @@ languages:
     percent: 90
   - name: French
     percent: 50
+
+
+
 
 ---
 
